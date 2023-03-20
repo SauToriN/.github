@@ -29,3 +29,14 @@ Our team has expertise in the following areas:
 If you have any questions or would like to learn more about our work, feel free to reach out to us at [Discord.com](https://discord.gg/pFRHjCAYgn).
 
 Thank you for your interest in SauToriN!
+
+
+## Donation
+if you want to support our team and projects, you can use crypto, if you persian you can use coffebede ;)
+
+### CRYPTO : 
+- ETH =:>  0x5e8eBd0F7E0b01Ee3cb43cC2A22e06D0bc0A5cB5
+
+
+### CoffeBede :
+[![](https://coffeebede.ir/DashboardTemplateV2/app-assets/images/banner/default-yellow.svg)](https://www.coffeebede.com/h3li0p4us3)
