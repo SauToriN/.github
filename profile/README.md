@@ -35,7 +35,7 @@ Thank you for your interest in SauToriN!
 if you want to support our team and projects, you can use crypto, if you persian you can use coffebede ;)
 
 ### CRYPTO : 
-- ETH =:>  0x5e8eBd0F7E0b01Ee3cb43cC2A22e06D0bc0A5cB5
+- ETH =:>  0xD62aad3E3bc049002492Ee1A1D7c2c15A6Ede974
 
 
 ### CoffeBede :
