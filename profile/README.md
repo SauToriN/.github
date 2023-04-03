@@ -26,7 +26,7 @@ Our team has expertise in the following areas:
 
 ## Contact Us
 
-If you have any questions or would like to learn more about our work, feel free to reach out to us at [Discord.com](https://discord.gg/pFRHjCAYgn) or [Telegram](https://t.me/SauToriN_Team).
+If you have any questions or would like to learn more about our work, feel free to reach out to us at [Discord.com](https://discord.gg/pFRHjCAYgn) or [Telegram.org](https://t.me/SauToriN_Team).
 
 Thank you for your interest in SauToriN!
 
