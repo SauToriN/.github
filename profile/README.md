@@ -11,18 +11,10 @@ Our mission is to explore and advance the field of AI through innovative researc
 We are currently working on the following projects:
 
 - Project 1: [password manager](https://github.com/SauToriN/Password-Manager)
-- Project 2: [SauToriN-Machine](https://github.com/SauToriN/The-Machine)
-- Project 2: [SauToriN-VPN](https://github.com/SauToriN/vpn)
+- Project 2: [PhantomProtocol](https://github.com/SauToriN/PhantomProtocol)
+- Project 2: [SauToriN-VPN](https://github.com/SauToriN/Safe-VPN)
 
 We are constantly working on new and exciting projects, so be sure to check back often to see what we're up to!
-
-## Our Skills
-
-Our team has expertise in the following areas:
-
-- Artificial intelligence
-- C++ programming
-- Python programming
 
 ## Contact Us
 
