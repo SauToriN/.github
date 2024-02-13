@@ -14,11 +14,9 @@ Thank you for your interest in SauToriN!
 
 
 ## Donation
-if you want to support our team and projects, you can use crypto, if you persian you can use coffebede ;)
+if you want to support our team and projects, you can use our crypto addresses below
 
 ### CRYPTO : 
 - ETH =:>  0xD62aad3E3bc049002492Ee1A1D7c2c15A6Ede974
-
-
-### CoffeBede :
-[![](https://coffeebede.ir/DashboardTemplateV2/app-assets/images/banner/default-yellow.svg)](https://www.coffeebede.com/h3li0p4us3)
+- BTC =:>  bc1q7edwc83xv9p68pxqqdp0ndl00rugxxzxwkh73z
+- DOGE =:> DU1ocTETXxD3ntYVv6EKLQTzFkCAyN6eLv
