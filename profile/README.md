@@ -8,7 +8,7 @@ Our mission is to explore and advance the field of AI through innovative researc
 
 ## Contact Us
 
-If you have any questions or would like to learn more about our work, feel free to reach out to us at [Discord.com](https://discord.gg/pFRHjCAYgn) or [Telegram.org](https://t.me/SauToriN_Team).
+If you have any questions or would like to learn more about our work, feel free to reach out to us at [Discord.com](https://discord.gg/pFRHjCAYgn) or [Telegram.org](https://t.me/SauToriN_Org).
 
 Thank you for your interest in SauToriN!
 
