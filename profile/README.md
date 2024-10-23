@@ -17,6 +17,5 @@ Thank you for your interest in SauToriN!
 if you want to support our team and projects, you can use our crypto addresses below
 
 ### CRYPTO : 
-- ETH =:>  0xb8aFa61eb700BF8D46E1505E6FdaE2D2E7bFf66a
-- BTC =:>  bc1qr466r9qwxxeql8qgvjs0dpfhtmakarg3ju7yjm
-- MONERO(XMR) =:> 49E7jMDtcf6Mt4K56GNf3WcAq3kJYSGoqJt4DEhX4YcuCH6dLmPnS3X8SaQ9YAahSkbcadwAs95u42gBHT247FtmNFFLmsB
+- ETH =:>  0x999B0EdEaB68A00487926D37C53C917b34949b35
+- BTC =:> bc1qf6k2zrsnzq6rnrspxcr0v4ps9g92fgm3wahmwp
